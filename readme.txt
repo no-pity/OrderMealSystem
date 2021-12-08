@@ -1,5 +1,5 @@
-OrderMeal为项目源码（包含icon图片）
-food文件夹为商品图片（用于程序中选择并添加）
+OrderMealSystem为项目源码（包含icon图片）
+food文件夹为商品图片（用于程序中选择并添加,但很美上传）
 
 管理员admin 密码123
 其余用户为普通用户
